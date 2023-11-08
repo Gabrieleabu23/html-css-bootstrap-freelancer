@@ -50,5 +50,16 @@ header .d-flex > h1:nth-child(2) {
 header h4{
     font-size: 18px;
 }
-  
+/* FINE HEADER */
+
+/* PARTE MAIN */
+main .content img{
+    width: 100%;
+}
+#portfolio .line_star{
+    background-color:#484848 ;
+}
+.border-radius{
+    border-radius: 10px;
+}
   

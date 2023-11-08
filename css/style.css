@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+#nav-bar{
+    background-color: #2c3e50;
+}
+/* NAV BAR */
+nav{
+    height: 70px;
+}
+/* REGOLE NAVBAR */
+#navbarSupportedContent {
+     flex-grow: 0;
+  }
+/* BORDO HAMBURGER MENU */
+  .navbar-light .navbar-toggler {
+    border-color:#dddddd;
+  }
+/* ICONA HAMBURGER MENU SVG */
+.navbar-light .navbar-toggler-icon{
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgb(136, 136, 136)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+} 
+
+/* JUMBO */
+header .bg_jumbo{
+    background-color: #1abc9c;
+}
+
+header .content img{
+    padding-top: 20px;
+    width: 300px;
+}
+header .d-flex > h1:nth-child(2) {
+    font-size: 40px;
+  }
+.fa-solid.fa-star{
+    font-size: 40px;
+}
+.line_star{
+    display: inline-block;
+    height: 5px;
+    background-color: white;
+    width: 85px;
+    margin: 0px 10px;
+    vertical-align: text-top;
+}
+header h4{
+    font-size: 18px;
+}
+  
+  

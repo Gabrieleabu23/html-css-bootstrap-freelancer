@@ -141,6 +141,7 @@ footer {
 @media all and (max-width:575px) {
   #about .container-fluid,
   #contact .container-fluid,
+  #jumbo .container-fluid,
   #portfolio .container-fluid{
     width: 80%;
   }

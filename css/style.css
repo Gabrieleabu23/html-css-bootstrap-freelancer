@@ -95,7 +95,7 @@ main .content img{
   }
 
   .padding_social_media{
-    padding: 5px 12px;
+    padding: 7px 12px;
     border: 1px solid white;
     font-size: 18px;
   }
@@ -113,6 +113,9 @@ main .content img{
     font-size: 15px;
     vertical-align: top;
     padding: 0px 1px;
+  }
+  .font_12{
+    font-size: 12px;
   }
 /* FINE FOOTER */
 
@@ -137,6 +140,9 @@ main .content img{
   display:flex;
   flex-wrap:inherit;
   align-items:flex-start;
+}
+.padding_social_media{
+  padding: 5px 12px;
 }
 
 }

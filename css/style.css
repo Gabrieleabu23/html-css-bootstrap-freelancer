@@ -101,7 +101,7 @@ main .content img{
 }
 
 @media all and (max-width:768px){
-   #about [class*="col-md-4"] p{
+   #about [class*="col-md-6"] p{
     font-size: 1.8rem;
    }
 }

@@ -67,7 +67,8 @@ main .content img{
 
 /* SECTION ABOUT */
 #about [class*="col-sm-8"] p {
-    font-size: 1.2rem;
+    width: 100%;
+    font-size: 1rem;
 }
 
 /* SECTION CONTACT */
@@ -89,9 +90,10 @@ main .content img{
   
 
 
+
 @media all and (max-width:768px){
    #about [class*="col-md-4"] p{
-    font-size: 2rem;
+    font-size: 1.8rem;
    }
 }
   

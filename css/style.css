@@ -78,8 +78,21 @@ main .content img {
   width: 100%;
   font-size: 1rem;
 }
+#about .btn-secondary {
+  border-color: #fff;
+}
+
+#about .btn-secondary:hover {
+  border-color: #cecece;
+}
+#about .btn-secondary:active{
+  border-color: #fff;
+}
+
 
 /* SECTION CONTACT */
+
+
 
 /* BUTTON COLOR */
 .send_green_button {
